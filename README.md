@@ -10,6 +10,7 @@ Aqui compartilho projetos em que transformo aprendizado em soluções reais — 
 
 [![Portfólio no GitHub](https://img.shields.io/badge/Meu%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/joaogabrielgois)
 [![API--Predial](https://img.shields.io/badge/Conhecer%20o%20API--Predial-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://api-predial.vercel.app)
+[![E-mail profissional](https://img.shields.io/badge/Entre%20em%20contato-Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:jgabrielgois@outlook.com)
 
 </div>
 
