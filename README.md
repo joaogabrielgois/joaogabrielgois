@@ -2,99 +2,111 @@
 
 ![João Gabriel — Desenvolvedor de Sistemas](./assets/banner.svg)
 
-### 👋 Bem-vindo ao meu GitHub!
+# João Gabriel dos Santos Gois
 
-**Desenvolvedor de Sistemas · Foco em aplicações web · Aracaju, SE**
+**Desenvolvimento web full-stack · Interfaces, APIs e soluções para problemas reais**
 
-Aqui compartilho projetos em que transformo aprendizado em soluções reais — do frontend ao banco de dados.
+Aracaju, Sergipe · Formação em Desenvolvimento de Sistemas pelo SENAI
 
-[![Portfólio no GitHub](https://img.shields.io/badge/Meu%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/joaogabrielgois)
-[![API--Predial](https://img.shields.io/badge/Conhecer%20o%20API--Predial-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://api-predial.vercel.app)
-[![E-mail profissional](https://img.shields.io/badge/Entre%20em%20contato-Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:jgabrielgois@outlook.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conecte--se_comigo-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/gabriel-gois-477207445/)
+[![Instagram](https://img.shields.io/badge/Instagram-@gabriellgois13-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gabriellgois13/)
+[![E-mail](https://img.shields.io/badge/E--mail-Vamos_conversar-2563EB?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jgabrielgois@outlook.com)
+
+[Sobre mim](#sobre-mim) &nbsp; · &nbsp; [Projetos](#projetos-em-destaque) &nbsp; · &nbsp; [Tecnologias](#tecnologias-e-ferramentas) &nbsp; · &nbsp; [Contato](#vamos-conversar)
 
 </div>
 
 ---
 
-### 🧑‍💻 Sobre mim
+## Sobre mim
 
-Meu nome é **João Gabriel dos Santos Gois**. Tenho formação em **Desenvolvimento de Sistemas pelo SENAI** e interesse em criar aplicações web úteis, bem estruturadas e fáceis de usar.
+Sou **João Gabriel**, formado em **Desenvolvimento de Sistemas pelo SENAI**. Desenvolvo aplicações web e aprofundo meus conhecimentos construindo projetos que conectam interfaces, regras de negócio e dados.
 
-Gosto de participar de diferentes etapas de um projeto: **interfaces, APIs, regras de negócio, banco de dados e implantação**. Estou sempre aprimorando meus conhecimentos em arquitetura, qualidade de código e segurança.
+Gosto de entender a necessidade de quem vai usar o produto e participar de todo o caminho: da organização da interface à implementação da API e à publicação.
 
-- 🎯 **Foco:** desenvolvimento web full-stack e resolução de problemas reais.
-- 🧩 **Conhecimentos:** JavaScript, C#, React, Node.js, Express e MySQL.
-- 🌱 **Em evolução:** boas práticas, testes, segurança e engenharia de software.
-- 🤝 **Interesses:** projetos colaborativos, oportunidades e desafios de desenvolvimento.
+- **Foco:** desenvolvimento full-stack com JavaScript, React e Node.js.
+- **Na prática:** sistemas de gestão e sites para apresentar negócios e facilitar o contato com clientes.
+- **Em evolução:** arquitetura, testes, segurança e qualidade de código.
+- **Interesse:** oportunidades de desenvolvimento, colaboração e projetos com aplicação real.
 
-### 🛠️ Tecnologias e ferramentas
+## Projetos em destaque
+
+### 01 · API-Predial
+**Gestão de manutenção predial · Aplicação full-stack**
+
+Projeto Integrador do SENAI voltado à organização de solicitações de manutenção, com fluxos para moradores, operários e administradores.
+
+- Abertura de demandas com fotos e acompanhamento do atendimento.
+- Distribuição de tarefas, atualização de andamento e registro de impedimentos.
+- Histórico, notificações, comunicação nos chamados e relatórios.
+- Controle de acesso e separação de responsabilidades por perfil.
+
+**Tecnologias:** React · Vite · Node.js · Express · MySQL · Prisma · Cloudinary
+
+[![Ver código](https://img.shields.io/badge/GitHub-Ver_código-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/joaogabrielgois/api-predial)
+[![Acessar projeto](https://img.shields.io/badge/Web-Acessar_projeto-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://api-predial.vercel.app)
+
+---
+
+### 02 · Luana Carla Doceria
+**Presença digital para um negócio local · Site em React**
+
+Site de apresentação de uma doceria com mais de quatro anos de atuação. O projeto reúne fotos reais, informações sobre os produtos e um caminho direto para solicitar encomendas pelo WhatsApp.
+
+- Galeria com filtros para bolos decorados, bolos com frutas e brigadeiros.
+- Cardápio em PDF e seção de dúvidas frequentes.
+- Formulário que prepara uma mensagem com os detalhes da encomenda.
+- Layout responsivo e imagens otimizadas em WebP.
+- Publicação no Cloudflare Pages, com código versionado no GitHub.
+
+**Tecnologias:** React · Vite · JavaScript · CSS · Cloudflare Pages
+
+[![Ver código](https://img.shields.io/badge/GitHub-Ver_código-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/joaogabrielgois/luana-carla-doceria)
+[![Visitar site](https://img.shields.io/badge/Web-Visitar_doceria-754858?style=for-the-badge&logo=cloudflarepages&logoColor=white)](https://luana-carla-doceria.pages.dev)
+
+> Uma solução estática, sem banco de dados: a escolha técnica acompanha a necessidade do negócio, e a encomenda é combinada diretamente com a doceria.
+
+## Tecnologias e ferramentas
+
+Conhecimentos que aplico e continuo desenvolvendo nos meus projetos.
+
+| Área | Tecnologias |
+| :--- | :--- |
+| **Linguagens** | JavaScript · C# · HTML · CSS |
+| **Frontend** | React · Vite · Tailwind CSS |
+| **Backend** | Node.js · Express |
+| **Dados** | MySQL · Prisma |
+| **Versionamento e publicação** | Git · GitHub · Cloudflare Pages · Vercel · Render |
 
 <div align="center">
 
-**Linguagens e fundamentos**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-18181B?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![C Sharp](https://img.shields.io/badge/C%23-18181B?style=flat-square&logo=dotnet&logoColor=8B5CF6)
-![HTML5](https://img.shields.io/badge/HTML5-18181B?style=flat-square&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-18181B?style=flat-square&logo=css&logoColor=1572B6)
-
-**Desenvolvimento web**
-
-![React](https://img.shields.io/badge/React-18181B?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-18181B?style=flat-square&logo=nodedotjs&logoColor=5FA04E)
-![Express](https://img.shields.io/badge/Express-18181B?style=flat-square&logo=express&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-18181B?style=flat-square&logo=tailwindcss&logoColor=06B6D4)
-
-**Dados, versionamento e deploy**
-
-![MySQL](https://img.shields.io/badge/MySQL-18181B?style=flat-square&logo=mysql&logoColor=4479A1)
-![Prisma](https://img.shields.io/badge/Prisma-18181B?style=flat-square&logo=prisma&logoColor=7CB9E8)
-![Git](https://img.shields.io/badge/Git-18181B?style=flat-square&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-18181B?style=flat-square&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-18181B?style=flat-square&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-18181B?style=flat-square&logo=render&logoColor=46E3B7)
+![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/React-111827?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-111827?style=flat-square&logo=nodedotjs&logoColor=5FA04E)
+![Express](https://img.shields.io/badge/Express-111827?style=flat-square&logo=express&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-111827?style=flat-square&logo=mysql&logoColor=4479A1)
+![Prisma](https://img.shields.io/badge/Prisma-111827?style=flat-square&logo=prisma&logoColor=7CB9E8)
+![Git](https://img.shields.io/badge/Git-111827?style=flat-square&logo=git&logoColor=F05032)
 
 </div>
 
-### 🚀 Projeto em destaque
+## Como trabalho e aprendo
 
-<table>
-<tr>
-<td width="100%">
+**Entender o problema → Planejar → Desenvolver → Validar → Melhorar**
 
-#### 🏢 API-Predial — Sistema de Manutenção Predial
+Procuro construir interfaces claras, organizar o código e escolher ferramentas de acordo com o projeto. Cada entrega também é uma oportunidade de revisar decisões, receber feedback e aprofundar meus conhecimentos.
 
-Aplicação full-stack desenvolvida como **Projeto Integrador do SENAI** para organizar e acompanhar solicitações de manutenção predial.
+## Vamos conversar?
 
-**O que o sistema oferece:**
-- **Moradores:** abertura de demandas, fotos e acompanhamento de prazos.
-- **Operários:** tarefas atribuídas, registro de andamento e impedimentos.
-- **Administradores:** triagem, atribuição, gestão e relatórios.
-- **Recursos adicionais:** histórico, notificações e comunicação nos chamados.
+Quer conhecer meus projetos, trocar experiências ou conversar sobre uma oportunidade?
 
-**Stack:** React + Vite · Node.js + Express · MySQL + Prisma · Cloudinary
-
-[![Código-fonte](https://img.shields.io/badge/Ver%20reposit%C3%B3rio-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/joaogabrielgois/api-predial)
-[![Aplicação](https://img.shields.io/badge/Acessar%20aplica%C3%A7%C3%A3o-2563EB?style=flat-square&logo=vercel&logoColor=white)](https://api-predial.vercel.app)
-
-</td>
-</tr>
-</table>
-
-### 📌 Minha forma de aprender
-
-```text
-Entender o problema → planejar → desenvolver → testar → melhorar
-```
-
-Acredito que um bom projeto deve ser **útil, compreensível e evoluir com feedback**. Este perfil reúne parte dessa jornada.
+- **LinkedIn:** [Gabriel Gois](https://www.linkedin.com/in/gabriel-gois-477207445/)
+- **Instagram:** [@gabriellgois13](https://www.instagram.com/gabriellgois13/)
+- **E-mail:** [jgabrielgois@outlook.com](mailto:jgabrielgois@outlook.com)
+- **GitHub:** [@joaogabrielgois](https://github.com/joaogabrielgois)
 
 ---
 
 <div align="center">
-
-**Obrigado pela visita!** ⭐
-
-<sub>João Gabriel dos Santos Gois · Desenvolvedor de Sistemas</sub>
-
+<sub><strong>João Gabriel dos Santos Gois</strong> · Desenvolvedor de Sistemas<br/>Aprendizado contínuo, projetos reais e atenção a quem usa.</sub>
 </div>
