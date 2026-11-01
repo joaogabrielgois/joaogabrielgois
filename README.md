@@ -31,20 +31,27 @@ Gosto de entender a necessidade de quem vai usar o produto e participar de todo 
 
 ## Projetos em destaque
 
-### 01 · API-Predial
+### 01 · MDStudio | Gestão Predial
 **Gestão de manutenção predial · Aplicação full-stack**
 
-Projeto Integrador do SENAI voltado à organização de solicitações de manutenção, com fluxos para moradores, operários e administradores.
+Evolução do **API-Predial**, Projeto Integrador do SENAI. Centraliza solicitações de manutenção, comunicação e atividades preventivas, com fluxos próprios para moradores, operários e administradores.
 
-- Abertura de demandas com fotos e acompanhamento do atendimento.
-- Distribuição de tarefas, atualização de andamento e registro de impedimentos.
-- Histórico, notificações, comunicação nos chamados e relatórios.
-- Controle de acesso e separação de responsabilidades por perfil.
+- **Chamados:** abertura com fotos, triagem, atribuição de responsáveis, atualização de status e registro de impedimentos.
+- **Acompanhamento:** histórico com filtros, notificações, conversas nos chamados e relatórios em PDF e Excel.
+- **Manutenção preventiva:** atividades recorrentes, próximos vencimentos e histórico de execuções.
+- **Mural:** comunicados da administração, com público definido e prazo de exibição.
+- **Avaliações:** notas, comentários e sugestões dos usuários, com respostas da administração.
+- **Pessoas e acessos:** consulta e edição de perfis, bloqueio e exclusão de contas sem histórico, preservando registros vinculados.
+- **Minha conta:** foto de perfil, atualização de contatos, troca de senha e recuperação por e-mail.
+- **Interface responsiva:** identidade MDStudio e navegação adaptada para computador e celular.
 
-**Tecnologias:** React · Vite · Node.js · Express · MySQL · Prisma · Cloudinary
+**Tecnologias:** React · Vite · Tailwind CSS · Node.js · Express · MySQL · Prisma · Cloudinary · Brevo
 
-[![Ver código](https://img.shields.io/badge/GitHub-Ver_código-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/joaogabrielgois/api-predial)
-[![Acessar projeto](https://img.shields.io/badge/Web-Acessar_projeto-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://api-predial.vercel.app)
+**Publicação:** Vercel (frontend) · Render (API) · Aiven (MySQL)
+
+[![Acessar projeto](https://img.shields.io/badge/Web-Conhecer_o_MDStudio-176B70?style=for-the-badge&logo=vercel&logoColor=white)](https://api-predial.vercel.app/)
+
+> O código-fonte está em um repositório privado. As funcionalidades internas exigem uma conta autorizada; os cadastros utilizam códigos individuais fornecidos pela administração.
 
 ---
 
