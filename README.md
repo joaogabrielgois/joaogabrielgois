@@ -73,6 +73,16 @@ Site de apresentação de uma doceria com mais de quatro anos de atuação. O pr
 
 > Uma solução estática, sem banco de dados: a escolha técnica acompanha a necessidade do negócio, e a encomenda é combinada diretamente com a doceria.
 
+### 03 · Portfólio de interfaces
+
+| Projeto | O que explora |
+| :--- | :--- |
+| [NOIR STUDIO](https://github.com/joaogabrielgois/noir-studio) | Site de estúdio criativo com direção de arte editorial e estudos de caso. |
+| [ATELIER 01](https://github.com/joaogabrielgois/atelier-01) | Portfólio de arquitetura com projetos demonstrativos e galerias. |
+| [PULSE OS](https://github.com/joaogabrielgois/pulse-os) | Painel interativo de receita, canais e clientes com dados simulados. |
+| [VANTA WEAR](https://github.com/joaogabrielgois/vanta-wear) | Experiência de catálogo de moda. |
+| [AETHER MOTOR](https://github.com/joaogabrielgois/AETHER-MOTOR) | Experiência de apresentação automotiva. |
+
 ## Tecnologias e ferramentas
 
 Conhecimentos que aplico e continuo desenvolvendo nos meus projetos.
